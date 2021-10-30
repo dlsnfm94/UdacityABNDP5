@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Tour in Amman</string>
+    <string name="place_image">Place Image</string>
+    <string name="location">Location:</string>
+    <string name="category_art">Art</string>
+    <string name="category_food">Food</string>
+    <string name="category_fun_activities">Fun Activities</string>
+    <string name="category_history">History</string>
+
+    <string name="art_place_1_name">Dar Al-Anda Art Gallery</string>
+    <string name="art_place_1_location">3 Derar Ben Al Azwar Street، Amman</string>
+    <string name="art_place_1_info">With an extensive collection of Arabic as well as international art, visual and music events, and a terrace overlooking the old city, Dar Al-Anda, located in Weibdeh is a true crowd pleaser. Art aficionados, casual collectors, and even first timers will find something to love at this Amman oasis: the elegant charm of the architecture, the diversity of the changing collections, or simply the calming effect of strolling around, surrounded by inspiring artwork and unbelievable views.</string>
+
+    <string name="art_place_2_name">Darat al Funan</string>
+    <string name="art_place_2_location">Nadim Al-Mallah St 13, Amman</string>
+    <string name="art_place_2_info">Darat al Funan is much more than an art gallery. It is an influential educational home for art in Amman—offering workshops, activities, and events that foster creativity and discussions. Even the actual site itself is significant: Darat al Funan fills six renovated historical buildings in Weibdeh and even includes an old cave and the ruins of a sixth-century Byzantine church in the southern gardens. Don’t miss the Khalid Shoman Collection, one of the first collections dedicated to Arab contemporary art, where you’ll also find the work of over 140 artists.</string>
+
+    <string name="art_place_3_name">National Gallery of Fine Arts</string>
+    <string name="art_place_3_location">Hosni Fareez St., Amman</string>
+    <string name="art_place_3_info">If you’re interested in contemporary Jordanian and Islamic art, the National Gallery of Fine Arts—housed in two buildings located on opposite sides of the National Gallery of Fine Arts Park—should be at the top of your list. Grab your ticket in Building 2 on the south side of the park and check out the permanent collection housed here before heading upstairs to Jungle Fever, a charming, do-good café with an outdoor terrace, located on the top level of Building 2. Once you’re refueled and ready to go, cross the park to Building 1 where you can explore the temporary exhibits. If you time your visit just right during the summertime, you can wrap up the day with some shopping at the night souk (market) in the park, where local vendors peddle handcrafted ceramics, snacks, and even fresh Arabic bread.</string>
+
+    <string name="food_place_1_name">Tandoori Oven</string>
+    <string name="food_place_1_location">Complex No 18 So\'od Al Qadi St 18, Abdoun</string>
+    <string name="food_place_1_info">The first North Indian restaurant in Amman, specialised in the Tandoor dishes. Relax in an atmosphere of tranquility that will transfer you to North India with it\'s authentic and unique decor and ambiance. Taste delicious dishes from the Indian kitchen that will meet your expectation and beyond!</string>
+
+    <string name="food_place_2_name">Copacabana</string>
+    <string name="food_place_2_location">Dabouq Complex Next to Cozmo, Dabouq</string>
+    <string name="food_place_2_info">Copacabana is a Brazilian Steakhouse (Churrascaria) that offers a fun and unique concept in dining where guests can enjoy all-you-can-eat traditional Brazilian cuisine in a rustic and friendly atmosphere. Inspired by Rio Grande do Sul in Southern Brazil, this unique steakhouse offers top quality cuts of beef and chicken which have been slowly roasted until juicy and tender over an authentic Brazilian style BBQ. Before the selections of fine meat arrive to your table, enjoy an elegant display of unlimited salads, soups and appetizers from the salad bar. The restaurant, which has been designed to capture the essence of Brazil for an exciting themed experience, makes for an ideal family dining local as well as a cozy and relaxing environment for groups of friends and couples. The interior is warm and traditional and has been meticulously appointed with Brazilian paintings, artwork and a fire pit to add the authentic Brazilian experience.</string>
+
+    <string name="food_place_3_name">Mijana Restaurant &amp; Cafe</string>
+    <string name="food_place_3_location">Ahmad Bin Talal St., Rainbow Street, Jabal Amman</string>
+    <string name="food_place_3_info">Set up in one of Rainbow Street\'s oldest houses, Mijana is a three floor family-run restaurant and café, that serves a wide array of international cuisine as well as shisha in a unique heart-warming atmosphere. Mijana boasts breathtaking views of the Citadel and Downtown Amman, and a luscious garden available for outdoor seating in summertime.</string>
+
+    <string name="fun_place_1_name">Breakout JO Escape Rooms</string>
+    <string name="fun_place_1_location">Jordan Speed Center, Amman, Jordan</string>
+    <string name="fun_place_1_info">At Breakout JO Escape Rooms, you\'ll enjoy an adventure that\'s immersive and set inside a themed setting. The goal is to use team and individual skills to discover hidden items, solve clues, and work out puzzles, all in an effort to break out of a room within 60 minutes. It\'s a great option for groups of friends, families with kids, and corporate teambuilding projects. </string>
+
+    <string name="fun_place_2_name">Escape The Room</string>
+    <string name="fun_place_2_location">Khalid Hanafi St 3, Sweifieh Complex No 3, Amman, Jordan</string>
+    <string name="fun_place_2_info">ESCAPE THE ROOM GAME is a fun, new entertainment concept and is the first of its kind in Jordan. Each Escape Room is a real life adventure game designed for small groups. Whether you’re a group of friends, family members, or coworkers, your goal is simple: you have sixty minutes to open your mind and eyes carefully, work together, crack codes and solve ciphers to escape. Book today and see if you have what it takes to escape in less than 60 minutes!</string>
+
+    <string name="fun_place_3_name">World of Illusions</string>
+    <string name="fun_place_3_location">Al Abdali Mall Suliman Al Nabulsi Street, Amman, Jordan</string>
+    <string name="fun_place_3_info">World of Illusions is located in Amman. Make World of Illusions a centerpiece of your Amman vacation itinerary</string>
+
+    <string name="history_place_1_name">The Citadel</string>
+    <string name="history_place_1_location">K. Ali Ben Al-Hussein St. 146, Amman, Jordan</string>
+    <string name="history_place_1_info">Dating back to the Neolithic period, The Citadel shows archaeological evidence of use and occupation by numerous fallen empires. Roman, Byzantine, and Umayyad ruins dot the site, located in the middle of downtown Amman. Highlights include a temple to Hercules, with remains of a massive statue of the god and a domed Umayyad palace. Visit the museum on premises to learn more about the site\'s history, and take photos to your heart\'s content among the varied and imposing ruins. </string>
+
+    <string name="history_place_2_name">Roman Amphitheater</string>
+    <string name="history_place_2_location">Al-Hashemi St., Amman, Jordan</string>
+    <string name="history_place_2_info">Dating back to the second century, Roman Amphitheater speaks to the period of Roman rule over Amman, when the city was known as Philadelphia. The construction of the 6,000-seat amphitheater into the hillside at a steep angle kept the sun off spectators and created excellent acoustics, which enabled audience members even at the top seat to hear people in the arena. Today the space, which is located in the heart of downtown, is open to the public and hosts large cultural festivals. Visit the small museum on premises for more information on the site\'s construction and history.</string>
+
+    <string name="history_place_3_name">Qasr al-Kharrana</string>
+    <string name="history_place_3_location">Route 40, Amman, Jordan</string>
+    <string name="history_place_3_info">Built around the year 700, Qasr al-Kharrana remains one of the region\'s earliest examples of Islamic architecture, as well as one of its most-recognized desert castles. This site serves as a popular attraction near Amman, drawing visitors with its well-preserved limestone appearance. While touring this attraction, don\'t miss viewing the upstairs graffito, an engraved wall marking that dates back to 710. </string>
+
+</resources>
